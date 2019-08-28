@@ -13,7 +13,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Notes/Notes.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerBehavior.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -77,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1566847757771</updated>
       <workItem from="1566847761117" duration="2977000" />
-      <workItem from="1567019423702" duration="1800000" />
+      <workItem from="1567019423702" duration="3278000" />
     </task>
     <servers />
   </component>
