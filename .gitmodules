@@ -1,5 +1,2 @@
-[submodule "New-Hyper-Casual"]
-	path = New-Hyper-Casual
-	url = https://github.com/Ogethel/New-Hyper-Casual.git
 [submodule "Hyper-Casual"]
 	url = https://github.com/Ogethel/New-Hyper-Casual.git
