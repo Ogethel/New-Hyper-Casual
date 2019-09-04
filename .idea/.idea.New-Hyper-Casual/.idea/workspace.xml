@@ -12,10 +12,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Runtime/Unity.TextMeshPro.asmdef" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Notes/Notes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.3.2/DataPrivacy/Unity.Analytics.DataPrivacy.asmdef" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.legacyinputhelpers@2.0.2/Runtime/LegacyInputHelpers.asmdef" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Tests/Editor/Unity.TextMeshPro.Editor.Tests.asmdef" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Tests/Runtime/Unity.TextMeshPro.Tests.asmdef" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -27,6 +32,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEventBehaivor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEventBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerBehavior.cs" />
+        <option value="$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.3.2/DataPrivacy/Unity.Analytics.DataPrivacy.asmdef" />
+        <option value="$PROJECT_DIR$/Library/PackageCache/com.unity.xr.legacyinputhelpers@2.0.2/Runtime/LegacyInputHelpers.asmdef" />
       </list>
     </option>
   </component>
@@ -78,6 +85,7 @@
       <updated>1566847757771</updated>
       <workItem from="1566847761117" duration="2977000" />
       <workItem from="1567019423702" duration="4473000" />
+      <workItem from="1567624683752" duration="443000" />
     </task>
     <servers />
   </component>
@@ -101,6 +109,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="682" y="431" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" />
+    <state x="682" y="431" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.1080" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
